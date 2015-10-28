@@ -83,3 +83,7 @@ See [CHANGELOG](https://github.com/FaaPz/Slim-PDO/blob/master/CHANGELOG.md)
 ### License
 
 See [LICENSE](https://github.com/FaaPz/Slim-PDO/blob/master/LICENSE)
+
+###
+
+//pull request comment to get the free hacktoberfest t-shirt
