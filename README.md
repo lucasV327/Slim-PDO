@@ -71,7 +71,7 @@ $deleteStatement = $pdo->delete()
 
 $affectedRows = $deleteStatement->execute();
 ```
-
+## test for hacktober
 ### Documentation
 
 See [DOCUMENTATION](https://github.com/FaaPz/Slim-PDO/blob/master/docs/README.md)
